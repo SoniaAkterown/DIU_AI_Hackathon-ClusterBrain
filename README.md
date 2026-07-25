@@ -2,7 +2,7 @@
 
 **ClusterBrain** is an intelligent, machine-learning-driven GPU Cluster Management System. Built for the **DIU AI Hackathon**, this project aims to predict hardware failures, intelligently schedule workloads to minimize resource waste, and forecast cluster operational costs using a robust 3-layer architecture comprising 9 specialized ML models.
 
-# [Presentation Slide]([https://docs.google.com/presentation/d/1A5wgFCN63JiA5eeAfuJiWww_NYu1PuhZ/edit?usp=sharing&ouid=108385811874463880409&rtpof=true&sd=true](https://drive.google.com/drive/folders/1rNY_AcA-xKjafIzE0mKQ8O6cBlzFp-uJ?usp=sharing))
+# [Presentation Slide](https://docs.google.com/presentation/d/1A5wgFCN63JiA5eeAfuJiWww_NYu1PuhZ/edit?usp=sharing&ouid=108385811874463880409&rtpof=true&sd=true](https://drive.google.com/drive/folders/1rNY_AcA-xKjafIzE0mKQ8O6cBlzFp-uJ?usp=sharing)
 
 ---
 
