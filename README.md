@@ -94,7 +94,9 @@ When testing the dashboard, use the **Sidebar Demo Controls** to trigger the ML 
 
 ---
 
-## ⚠️ Troubleshooting & Known Issues
-* **macOS XGBoost Threading Crash:** If the API crashes when predicting on macOS, do not worry. `app.py` already includes `os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'` and `OMP_NUM_THREADS = '1'` at the very top of the file to bypass Apple's threading conflicts with OpenMP. Do not remove these lines.
-* **PyTorch Security Warnings:** The autoencoder is saved as a TorchScript archive and is loaded securely using `torch.jit.load()`.
-* **Feature Names Mismatch:** All endpoints utilize a dynamic `align_features(df, model)` helper function in `app.py` to guarantee that frontend payloads precisely match the columns expected by Scikit-Learn and XGBoost.
+## 📜 License & Security Policy
+
+This project is open-source and structured according to standard security protocols.
+
+* 📄 **License:** This project is licensed under the **[Apache 2.0 License](./LICENSE)**.
+* 🛡️ **Security Policy:** For reporting vulnerabilities and security guidelines, please see our **[Security Policy](./SECURITY.md)**.
