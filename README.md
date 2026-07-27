@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://github.com/SoniaAkterown/DIU_AI_Hackathon-ClusterBrain/blob/main/photo_2026-07-28_01-12-59.jpg" alt="ClusterBrain Banner" width="50%">
+</p>
+
+<h1 align="center">ClusterBrain 🧠</h1>
+
+<h3 align="center">An Intelligent, Machine-Learning-Driven GPU Cluster Management System (DIU AI Hackathon)</h3>
+
+
 # 🧠 ClusterBrain
 
 **ClusterBrain** is an intelligent, machine-learning-driven GPU Cluster Management System. Built for the **DIU AI Hackathon**, this project aims to predict hardware failures, intelligently schedule workloads to minimize resource waste, and forecast cluster operational costs using a robust 3-layer architecture comprising 9 specialized ML models.
 
-# [Presentation Slide](https://drive.google.com/drive/folders/1rNY_AcA-xKjafIzE0mKQ8O6cBlzFp-uJ?usp=sharing)
 ---
 
 ## 🏗️ Architecture
