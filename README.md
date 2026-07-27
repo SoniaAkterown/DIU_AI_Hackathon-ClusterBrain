@@ -21,6 +21,26 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License">
 </p>
+
+
+## Contributors 👥
+
+<p align="center">
+  <a href="https://github.com/SoniaAkterown">
+    <img src="https://github.com/SoniaAkterown.png" width="60px;" style="border-radius: 50%;" alt="Contributor 1"/>
+  </a>
+  <a href="https://github.com/Rasif2004">
+    <img src="https://github.com/Rasif2004.png" width="60px;" style="border-radius: 50%;" alt="Contributor 2"/>
+  </a>
+  <a href="https://github.com/ashfiqadnan">
+    <img src="https://github.com/ashfiqadnan.png" width="60px;" style="border-radius: 50%;" alt="Contributor 3"/>
+  </a>
+  <a href="https://github.com/mdshadin751">
+    <img src="https://github.com/mdshadin751.png" width="60px;" style="border-radius: 50%;" alt="Contributor 3"/>
+  </a>
+</p>
+
+
 # 🧠 ClusterBrain
 
 **ClusterBrain** is an intelligent, machine-learning-driven GPU Cluster Management System. Built for the **DIU AI Hackathon**, this project aims to predict hardware failures, intelligently schedule workloads to minimize resource waste, and forecast cluster operational costs using a robust 3-layer architecture comprising 9 specialized ML models.
