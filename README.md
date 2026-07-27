@@ -6,7 +6,21 @@
 
 <h3 align="center">An Intelligent, Machine-Learning-Driven GPU Cluster Management System (DIU AI Hackathon)</h3>
 
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/SoniaAkterown/ClusterBrain?style=flat&logo=github&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/watchers/SoniaAkterown/ClusterBrain?style=flat&logo=github&label=views&color=blue" alt="Views">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-1.50.1-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/PyTorch-2.12.1-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/XGBoost-2.2.0-2196F3?style=flat" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Scikit--Learn-1.7.0-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Pandas-2.3.2-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-2.3.2-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Uvicorn-0.49.0-499848?style=flat" alt="Uvicorn">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License">
+</p>
 # 🧠 ClusterBrain
 
 **ClusterBrain** is an intelligent, machine-learning-driven GPU Cluster Management System. Built for the **DIU AI Hackathon**, this project aims to predict hardware failures, intelligently schedule workloads to minimize resource waste, and forecast cluster operational costs using a robust 3-layer architecture comprising 9 specialized ML models.
