@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SoniaAkterown/DIU_AI_Hackathon-ClusterBrain?style=flat&logo=github&color=yellow" alt="Stars">
-  <img src="https://img.shields.io/github/watchers/SoniaAkterown/DIU_AI_Hackathon-ClusterBrain?style=flat&logo=github&label=views&color=blue" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=SoniaAkterown&repo=DIU_AI_Hackathon-ClusterBrain&label=views&color=blue&style=flat" alt="Views">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Streamlit-1.50.1-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
